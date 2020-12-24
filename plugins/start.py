@@ -12,7 +12,7 @@ async def start(client, message):
                 ],
                [
                     InlineKeyboardButton('⭐ Support Group ⭐', url='https://t.me/naija_bestz'),
-                    InlineKeyboardButton('Source 😜', url='https://github.com/Davoe-D/TheClickFly')
+                    InlineKeyboardButton('Source 😜', url='https://github.com/Davoe-D/Youtube-Downloader-Bot')
                 ]
             ]
         )
